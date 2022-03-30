@@ -1,0 +1,87 @@
+
+.alert{
+    position: absolute;
+    margin-top: 40%;
+    height: 30%;
+    margin-left: 10%;
+    width: 80%;
+    align-self: center;
+    background-color: rgb(102, 102, 102);
+    color: white;
+    visibility: hidden;
+    opacity: 1;
+}
+.img-pokemon{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #4f47c9;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    margin-top: 25px;
+    padding-bottom: 20px;
+    visibility: hidden;
+}
+.img-pokemon h3{
+    text-align: center;
+    margin-bottom: -20px;
+}
+.img-pokemon img{
+    margin-bottom: -30px;
+}
+
+.botao-quem{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+.botao-fase{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.botao-naosei{
+    margin-right: 20px;
+}
+.page-quem{
+    padding-top: 30px;
+}
+#nome-escrito{
+    visibility: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: rgb(100, 96, 104);
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px ;
+}
+#testa-nome{
+   margin-left: 6px;
+    margin-top: 20px;
+    visibility: hidden;
+    margin-bottom: 20px;
+}
+.botoes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+}
+#fase-anterior{
+    width: 50%;
+}
+#proxima-fase{
+    width: 50%;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}

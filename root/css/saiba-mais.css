@@ -1,0 +1,15 @@
+.titulo{
+    font-size: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-weight: 700;
+}
+.texto{
+    margin: 5%;
+    background-color: #4f47c9;
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+  font-size: 18px;
+  text-align: justify;
+}

@@ -1,0 +1,21 @@
+.titulo-pokedex{
+    font-size: 20px;
+    margin-left: 6%;
+    width: 88%;
+    text-align: center;
+}
+#info{
+    margin: 5%;
+    margin-top: 0%;
+    background-color: #4f47c9;
+    border-radius: 20px;
+    color: white;
+    padding: 5px;
+    padding-left: 10px;
+    font-size: 14px;
+    visibility: hidden;
+}
+#poke-img{
+    width: 90%;
+    margin-left: 5%;
+}
